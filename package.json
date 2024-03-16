@@ -12,7 +12,12 @@
   },
   "dependencies": {
     "faker": "^7.1.0",
-    "chance": "^1.1.7"
+    "chance": "^1.1.7",
+    "kastpitocidanielle-text-crypto": "1.1.4",
+    "kiranstephen65-quote": "1.1.4",
+    "mandytrowbridge260-date-time": "1.1.4",
+    "jessicamogel03-random-array": "1.1.4",
+    "tedscreaming-text-crypto": "1.1.4"
   },
   "author": "",
   "license": "ISC",
